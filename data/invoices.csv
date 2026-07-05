@@ -1,0 +1,5 @@
+customer_name,customer_email,invoice_number,amount,issue_date,due_days
+Max Mustermann,max@example.com,INV-2026-001,450.00,2026-06-01,14
+Anna Huber,anna.huber@example.com,INV-2026-002,890.50,2026-06-05,14
+Thomas Berger,thomas.berger@example.com,INV-2026-003,320.00,2026-06-10,30
+Lisa Schmidt,lisa.schmidt@example.com,INV-2026-004,1250.00,2026-05-20,14
